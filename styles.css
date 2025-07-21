@@ -1,10 +1,12 @@
-
 /* Your CSS Code here. */
 .container-fixed {
       width: 600px;
       border: 4px solid lime;
       padding: 10px;
     }
+.row{
+	border: 4px solid pink
+}
 
     .box {
       border: 1px dotted black;
